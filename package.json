@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@ethersphere/bee-js": "^3.3.1",
+    "axios": "^0.26.1",
+    "tar-js": "^0.3.0"
+  }
+}
